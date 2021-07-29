@@ -1194,9 +1194,12 @@ leetcode-cn.com##a[class*="BaseButtonComponent-PromoteButton"]
 leetcode-cn.com##ul[class*='NavbarList'] > li:nth-child(7)
 leetcode-cn.com##div[class*="NewTag"]
 leetcode-cn.com##div[class*=Submission] + div > div
+leetcode-cn.com##div[data-key=description-content]>div[class*=description]>div[class*=header]+div
+leetcode-cn.com##div[data-key=description-content]>div[class*=description]>div[class*=container]+div
 leetcode-cn.com##div[class*=card-text].bottom-right
 leetcode-cn.com##div[class*=RootContainer] > div[class*=ScrollContainer]
 leetcode-cn.com##div[class*=RightContainer] > div[class*=SideBarItemWrapper]:nth-child(1)
 leetcode-cn.com##div[class*=RightContainer] > div[class*=SideBarItemWrapper]:nth-child(2)
 leetcode-cn.com##li.text-brand-orange.border-brand-orange > button[id*=headlessui-menu-button]
 leetcode-cn.com##div.self-end + div.flex.py-2
+
