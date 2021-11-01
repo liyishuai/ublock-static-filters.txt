@@ -332,9 +332,9 @@ www.imooc.com###globalTopBanner
 blog.csdn.net##.to-reward.to-commentBox
 blog.csdn.net##.btn-comments.hover-box.low-height.btn-maimai
 
-! 2019/11/15 https://juejin.im
-juejin.im##.request-health-alert
-juejin.im##.index-book-collect
+! 2019/11/15 https://juejin.cn
+juejin.cn##.request-health-alert
+juejin.cn##.index-book-collect
 
 ! 2019/11/20 https://www.msn.cn
 www.msn.cn##.sponsored-label > span
@@ -457,11 +457,9 @@ www.jianshu.com##footer
 ! 2020/3/30 https://zh.moegirl.org
 zh.moegirl.org###siteNotice > .please-donate
 
-! 2020/4/2 https://juejin.im
-juejin.im##.shadow.app-download-sidebar-block.sidebar-block
-
-! 2020/4/5 https://juejin.im
-juejin.im##.article-banner
+! 2020/4/2 https://juejin.cn
+juejin.cn##.shadow.app-download-sidebar-block.sidebar-block
+juejin.cn##.article-banner
 
 ! 2020/4/5 https://segmentfault.com
 segmentfault.com##.float-ads.align-items-center.justify-content-center.d-xl-flex.d-none.overflow-hidden.border-0.card
@@ -1203,3 +1201,49 @@ leetcode-cn.com##div[class*=RightContainer] > div[class*=SideBarItemWrapper]:nth
 leetcode-cn.com##li.text-brand-orange.border-brand-orange > button[id*=headlessui-menu-button]
 leetcode-cn.com##div.self-end + div.flex.py-2
 
+! 2021-07-29 https://leetcode-cn.com
+leetcode-cn.com##div[class*=EditorContainer]>div[class*=panel]
+
+! 2021-08-03 https://baike.baidu.com
+baike.baidu.com##.J-secondsknow-large-container.secondsknow-large-container
+
+! 2021-08-03 https://home.jd.com
+home.jd.com##.toolbar-qrcode
+
+! 2021-08-03 https://www.deepl.com
+www.deepl.com##.dl_body--redesign.dl_top_element--wide.dl_visible_desktop_only
+www.deepl.com##.dl_header--sticky.dl_header
+www.deepl.com##.dl_top_element--wide.dl_footer
+
+! 2021-08-13 https://acg18.moe
+acg18.moe##div[aria-label="音频播放器"]
+
+! 2021-08-13 https://pan.baidu.com
+pan.baidu.com##dd[node-type="header-union"]
+pan.baidu.com##.btn-img-tips
+
+! 2021-08-14 https://fastapi.tiangolo.com
+fastapi.tiangolo.com##.md-banner
+
+! 2021-08-21 https://gitee.com
+gitee.com##.people-image
+
+! 2021-08-22 https://juejin.cn
+juejin.cn##.advertisement
+
+! 2021-08-28 https://cn.vitejs.dev
+cn.vitejs.dev##.sponsors
+
+! 2021-08-30 https://amap.com
+amap.com##.amap-copyright
+
+! 2021-09-11 https://modao.cc
+modao.cc##.header-banner
+
+! 2021-10-25 https://blog.csdn.net
+blog.csdn.net##.csdn-redpack-container
+
+! 2021-11-01 https://musescore.com
+musescore.com##header > section
+musescore.com##header > div
+musescore.com##[id^="ad_"]
