@@ -1240,6 +1240,20 @@ amap.com##.amap-copyright
 ! 2021-09-11 https://modao.cc
 modao.cc##.header-banner
 
+! 2021-09-23 https://www.bilibili.com
+www.bilibili.com##section.bili-grid:has(>.eva-extension-area)
+www.bilibili.com##section.bili-grid:has(>.battle-area)
+
+! 2021-09-26 https://musescore.com
+musescore.com##nav + div
+musescore.com##[id^="ad"]
+
+! 2021-09-27 https://juejin.cn
+juejin.cn##[href="/pins"] .tablead
+
+! 2021-10-11 https://www.bilibili.com
+www.bilibili.com##.reply-notice
+
 ! 2021-10-25 https://blog.csdn.net
 blog.csdn.net##.csdn-redpack-container
 
