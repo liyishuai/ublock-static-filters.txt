@@ -1276,3 +1276,12 @@ twitter.com##div[data-testid="SideNav_AccountSwitcher_Button"] > div:nth-child(2
 ! 2021-12-04 https://www.deepl.com
 www.deepl.com##.dl_ad_pro_container
 
+! 2021-12-07 https://www.zxzj.fun
+www.zxzj.fun##.layer
+www.zxzj.fun###globalAd
+
+! 2021-12-22 https://javgg.net
+javgg.net##.home_iframead
+
+! 2022-01-14 https://www.msn.cn
+www.msn.cn##.layout-none.grid.todaystripe > ul
