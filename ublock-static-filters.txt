@@ -654,6 +654,8 @@ www.dlsite.com##.cp_bn_list
 ! 2020/7/19 acg18.moe
 ||acg18.moe/wp-content/themes/wpdx/js/activate-power-mode.js$script,domain=acg18.moe,important
 ||acg18.icu/wp-content/themes/wpdx/js/activate-power-mode.js$script,domain=acg18.icu,important
+||hxcy.moe/wp-content/themes/wpdx/js/activate-power-mode.js$script,domain=hxcy.moe,important
+||hxcy.moe/sw.js$script,domain=hxcy.moe,important
 ||acg18.icu/sw.js$script,domain=acg18.icu,important
 
 ! 2020/7/26 https://mysupervisor.org
@@ -1285,3 +1287,18 @@ javgg.net##.home_iframead
 
 ! 2022-01-14 https://www.msn.cn
 www.msn.cn##.layout-none.grid.todaystripe > ul
+
+! 2022-08-05 https://zh.javascript.info
+zh.javascript.info##.sitetoolbar__notification.notification_info.notification_top.notification
+
+! 2022-08-22 https://www.bilibili.com
+www.bilibili.com##.feed-floor > section.bili-grid.channel-floor
+
+! 2022-08-26 https://www.bilibili.com
+www.bilibili.com##.adblock-tips
+
+! 2022-09-04 https://reactjs.org
+reactjs.org###___gatsby > div > div > header > div:nth-child(1)
+
+! 2022-09-04 https://www.zhihu.com
+www.zhihu.com###root > div > div:last-child
