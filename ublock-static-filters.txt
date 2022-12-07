@@ -654,6 +654,8 @@ www.dlsite.com##.cp_bn_list
 ! 2020/7/19 acg18.moe
 ||acg18.moe/wp-content/themes/wpdx/js/activate-power-mode.js$script,domain=acg18.moe,important
 ||acg18.icu/wp-content/themes/wpdx/js/activate-power-mode.js$script,domain=acg18.icu,important
+||hxcy.moe/wp-content/themes/wpdx/js/activate-power-mode.js$script,domain=hxcy.moe,important
+||hxcy.moe/sw.js$script,domain=hxcy.moe,important
 ||acg18.icu/sw.js$script,domain=acg18.icu,important
 
 ! 2020/7/26 https://mysupervisor.org
