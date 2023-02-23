@@ -1319,3 +1319,6 @@ bilibili.com/video/$removeparam=~t
 
 ! 2022-12-03 https://www.bilibili.com
 www.bilibili.com##.video-page-special-card-small
+
+! 2023-02-23 https://space.bilibili.com
+||s1.hdslb.com/bfs/seed/jinkela/short/auto-append-spmid.js$script,domain=bilibili.com,important
