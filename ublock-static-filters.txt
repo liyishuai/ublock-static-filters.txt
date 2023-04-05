@@ -1316,9 +1316,28 @@ cn.vuejs.org##.vuejobs-wrapper
 reactnative.cn##a.hot-link.navbar__link.navbar__item
 reactnative.cn##[href^="https://time.geekbang.org"]
 bilibili.com/video/$removeparam=~t
+bilibili.com/video/$removeparam=spm_id_from
+bilibili.com/video/$removeparam=vd_source
 
 ! 2022-12-03 https://www.bilibili.com
 www.bilibili.com##.video-page-special-card-small
 
 ! 2023-02-23 https://space.bilibili.com
 ||s1.hdslb.com/bfs/seed/jinkela/short/auto-append-spmid.js$script,domain=bilibili.com,important
+
+! 2023-02-26 https://www.olevod.com
+www.olevod.com##.play_infobox > .guangao
+
+! 2023-02-28 https://dict.youdao.com
+dict.youdao.com##.report
+dict.youdao.com##.copyright
+dict.youdao.com##.feedbackBtn
+
+! 2023-03-02 https://www.pixiv.net
+www.pixiv.net##a[href^="/premium"]
+
+! 2023-03-18 https://www.nowcoder.com
+www.nowcoder.com##.tab-new
+
+! 2023-04-04 fuck tracker fuck bytedance
+||mcs.snssdk.com/list$xhr
