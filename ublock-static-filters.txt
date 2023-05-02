@@ -1340,4 +1340,21 @@ www.pixiv.net##a[href^="/premium"]
 www.nowcoder.com##.tab-new
 
 ! 2023-04-04 fuck tracker fuck bytedance
-||mcs.snssdk.com/list$xhr
+||mcs.snssdk.com$xhr
+||mon.zijieapi.com$xhr
+||api.juejin.cn/interact_api/v1/message/count$xhr
+||chat.aidutu.cn/api/cg/chatgpt/word/check$xhr
+||chat.aidutu.cn/api/cg/chatgpt/config/vip$xhr
+
+! 2023-04-15 https://www.aliyundrive.com
+www.aliyundrive.com##div[class^="business-tip"]
+
+! 2023-04-27 https://zouyaoji.top
+zouyaoji.top##a.vue-cesium__link[href*="register"]
+
+! 2023-04-30 https://blog.csdn.net
+blog.csdn.net##.programmer1Box
+blog.csdn.net###asideNewNps
+
+! 2023-05-02 https://www.kdocs.cn
+www.kdocs.cn##body > div[class^='style_wrapper_']
