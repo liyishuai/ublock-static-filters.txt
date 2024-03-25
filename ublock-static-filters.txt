@@ -1358,3 +1358,33 @@ blog.csdn.net###asideNewNps
 
 ! 2023-05-02 https://www.kdocs.cn
 www.kdocs.cn##body > div[class^='style_wrapper_']
+www.kdocs.cn##body > div.wo-public-watermark
+
+! 2023-06-16 https://pan.baidu.com
+pan.baidu.com##.doc-open-na.dialog-qcodeDialog.qcodeDialog
+
+! 2023-11-04 https://nodejs.cn
+nodejs.cn###pagead
+
+! 2023-11-18 https://www.cnki.net
+www.cnki.net##.banner-main
+
+! 2023-11-23 https://kns.cnki.net
+kns.cnki.net##.carousel
+
+! 2023-12-11 https://www.douyin.com
+www.douyin.com##div > div > ul:has(li > a:first-child[style^="background-image"] + div:last-child)
+
+! 2023-12-30 https://crackedresource.com
+crackedresource.com##body > div > ins
+crackedresource.com##body > div > div > section
+
+! 2024-03-13 https://cc.163.com
+||cc.163.com
+
+! 2024-03-25 https://pan.baidu.com
+pan.baidu.com##.nd-game-entry
+pan.baidu.com##.nd-sug-ad-item
+pan.baidu.com##.wp-s-header__vip-btn-tip-text
+pan.baidu.com##.wp-s-aside-nav__main-bottom a.wp-s-aside-nav__main-item[active-class]
+
