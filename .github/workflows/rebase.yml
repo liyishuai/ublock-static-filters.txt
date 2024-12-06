@@ -1,0 +1,14 @@
+name: Rebase on Gist
+on:
+  schedule:
+    - cron: '0 20 * * *'
+jobs:
+  rebase-on-gist:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - run: |
+        git config user.name 'github-actions[bot]'
+        git config user.email 'github-actions[bot]@users.noreply.github.com'
+        git pull --rebase https://gist.github.com/d0a50bfd4bb4e45726c8d9472cf154a7.git
+        git push --force
